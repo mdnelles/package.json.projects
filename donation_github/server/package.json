@@ -36,7 +36,7 @@
     "cookie-parser": "*",
     "cors": "*",
     "express": "*",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "express-session": "*",
     "file-type": "^14.1.1",
     "flatted": "*",
