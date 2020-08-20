@@ -28,7 +28,7 @@
   "license": "ISC",
   "dependencies": {
     "array-sort": "*",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "*",
     "busboy": "^0.3.1",
     "concurrently": "^5.1.0",
